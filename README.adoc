@@ -96,7 +96,7 @@ include::{sourcesdir}/profile.adoc[]
 作成した `profile.adoc` のあるディレクトリに移動してから実行します。
 [source,console]
 ----
-C:\Users\kuboaki\rubybook>asciidoctor profile.html
+C:\Users\kuboaki\rubybook>asciidoctor profile.
 ----
 --
 
