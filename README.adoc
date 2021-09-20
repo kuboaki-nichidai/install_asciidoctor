@@ -22,7 +22,7 @@
 :section-refsig:
 :chapter-refsig:
 
-NOTE: 下記文章中では、ワークスペースとして `Users\kuboaki\rubybok` といった場所を指定していますが、これは、みなさんがCloneしたリポジトリのディレクトリ名で読み替えてください。
+NOTE: 下記文章中では、ワークスペースとして `Users\kuboaki\rubybook` といった場所を指定していますが、これは、みなさんがCloneしたリポジトリのディレクトリ名で読み替えてください。
 
 
 = Asciidoctorを使えるようにする
@@ -96,7 +96,7 @@ include::{sourcesdir}/profile.adoc[]
 作成した `profile.adoc` のあるディレクトリに移動してから実行します。
 [source,console]
 ----
-C:\Users\kuboaki\rubybook>asciidoctor profile.html
+C:\Users\kuboaki\rubybook>asciidoctor profile.adoc
 ----
 --
 
